@@ -1,0 +1,24 @@
+Los Angeles
+CA
+3834340
+118.25
+34.067
+Hollywood is here!
+c:\la.jpg
+-----
+New York
+NY
+8274527
+74.5 
+41.75
+The Statue of Liberty is here!
+<none>
+-----
+Saint Louis
+MO
+344362
+90.66
+38.67
+The Gateway Arch is here!
+c:\stl.jpg
+------
